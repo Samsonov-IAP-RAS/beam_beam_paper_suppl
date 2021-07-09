@@ -1,17 +1,13 @@
 ---
-tracks: B3EIJUHcNpg
-scheme: xa759XsFCtM
-PIC: ZxgcuPUKlM4
+density: B3EIJUHcNpg
+unstable: xa759XsFCtM
 ---
 
 ## Supplemental material for the paper "Beamstrahlung-enhanced disruption in beam-beam interaction"
 by A. S. Samsonov, I. Yu. Kostyukov, E. N. Nerush, M. Filipovic, C. Baumann, A.Pukhov
 
-<!-- ## 1. Positrons tracks inside the cascade plasma
-{% include youtubePlayer.html id=page.tracks %}
+## 1. Evolution of the electron beam density distribution in PIC simulations (a) without and (b) with account of QED procceses with initial parameters $\chi_0=10$, $r_b = 1 \mathrm{\mu m}$
+{% include youtubePlayer.html id=page.density %}
 
-## 2. Visual schematics of the cascade development
-{% include youtubePlayer.html id=page.scheme %}
-
-## 3. 3D QED-PIC simulation
-{% include youtubePlayer.html id=page.PIC %} -->
+## 2. Electron tracks showing termination of the directional motion due to loss of energy
+{% include youtubePlayer.html id=page.unstable %}
